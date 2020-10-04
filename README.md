@@ -1,2 +1,2 @@
 # Sudoku-Pygame
-Sudoku Game that implements backtracking algorithm.
+Sudoku Game written in python. It implements backtracking algorithm to solve the game.
